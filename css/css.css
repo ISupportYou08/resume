@@ -9,7 +9,7 @@ header {
   padding: 20px;
   margin-bottom: 20px;
   background-color: rgb(102, 102, 102);  
-  color: #fff;                /* White text */
+  color: #fff;               
   border-radius: 10%;
 }
 
@@ -18,26 +18,26 @@ header .profile img {
   height: 120px;
   border-radius: 50%;
   margin-right: 20px;
-  border: 3px solid #fff;      /* White border for contrast */
+  border: 3px solid #fff;     
 }
 
 header h1 {
   font-size: 28px;
-  color: #fff;                 /* White heading */
+  color: #fff;                
 }
 
 header h2 {
   font-size: 18px;
-  color: #f0f0f0;              /* Light gray for subheading */
+  color: #f0f0f0;              
 }
 
 header p {
   font-size: 14px;
-  color: #e0e0e0;              /* Softer white for details */
+  color: #e0e0e0;              
 }
 
 header i {
-  color: #ffd700;              /* Gold icons for contrast */
+  color: #ffd700;              
   margin-right: 5px;
 }
 
@@ -147,5 +147,6 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
 
